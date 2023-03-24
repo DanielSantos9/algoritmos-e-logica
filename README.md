@@ -1,2 +1,1 @@
-# calculadora-de-media
-Repositório de códigos de exercício em lógica
+Repositório de exercícios de lógica e algoritmos em linguagem C.
